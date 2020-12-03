@@ -1,31 +1,30 @@
 <?php
 
-//eerste opdracht
+//taak1
 //echo "Hallo en Welkom!";
 //echo '<h1>Darimir</h1>';
 
 
-//tweedeopdracht
 //$score = 0;
 
 
 
 
-//3deopdracht
-
+//taak2
 ///if($naam = " darimirmateo")
 //{
 //    echo "hey topper";
 //}
 
 
-//4deopdracht
+
+//taak3
 if($leeftijd = "27")
 {
-    echo "27";
+    echo "leettijd is 27" ;
 }
 
-
+//tak03
 $Pakjemelk = 10.365;
 var_dump($Pakjemelk);
 
