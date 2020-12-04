@@ -59,12 +59,40 @@
 
 
 //taak08
-echo "<h2>VOORNAMEN ?</h2>";
-echo "voornaam 1<br>";
-echo "voornaam 2<br>";
-echo "voornaam 3<br>";
+//echo "<h2>VOORNAMEN ?</h2>";
+//echo "voornaam 1<br>";
+//echo "voornaam 2<br>";
+//echo "voornaam 3<br>";
+
+//taak09
+//$voornaam = "darimir";
+//$leeftijd = 26;
+//echo "Jouw naam is " . $voornaam . " en je bent " . $leeftijd . " jaar oud.";
+
+//taak10
+//$item = " <li>item 1</li>";
+//echo
+//$item .= "<li>item 2</li>";
+//echo
+//$item = "<li>item 3</li>";
+
+//___________________________________
+
+//taak11taak01 - Array variabele
 
 
+//$myMovies = array("Spiderman", "Batman", "The Joker");
+
+ // $myMovies = ["Spiderman", "Batman", "The Joker"];
+ // echo'. Spiderman <br>. Batman<br>. The Joker <br>';
+
+  
+
+
+
+
+
+    
 
 
 
