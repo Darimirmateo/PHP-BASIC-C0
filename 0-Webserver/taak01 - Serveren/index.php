@@ -155,6 +155,35 @@
 
  //$getal1 = 15;
  //echo ++$getal1;
+
+
+ //taak: taak01 - Comparison Operators
+ $test1 = 10;
+ $test2 = "hallo";
+
+// echo "<h2>" . $txt1 . "</h2>";
+ //echo "<br>";
+ //var_dump ($test1 == $test2) ;
+// echo "<br>";
+// var_dump ($test1 === $test2);
+// echo "<br>";
+
+ var_dump($test1  != $test2);
+ echo "<br>";
+ var_dump($test1  > $test2);
+ echo "<br>";
+ var_dump($test1 < $test2);
+ echo "<br>";
+ var_dump($test1 <> $test2);
+ echo "<br>";
+ var_dump($test1  >= $test2);
+ echo "<br>";
+ var_dump($test1  <= $test2);
+ echo "<br>";
+
+ 
+    
+ 
  
  
 
