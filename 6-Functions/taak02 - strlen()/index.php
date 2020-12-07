@@ -12,14 +12,14 @@ function  mijnNaamIsGroot(){
    Echo "mijn naam is  $gehelenaam";
    strtoupper  ($gehelenaam);
 
+   function zetAllesGroot(){
+    echo '<h1>' . mijnNaamIsGroot() . '</h1>';
 
 
 
 }
 
-mijnNaamIsGroot();
 
- 
 
 
 
