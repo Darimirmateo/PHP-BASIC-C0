@@ -5,31 +5,31 @@ $test1 = 3;
 $test2 = 6;
 
 if($test1 == $test2) {
-    echo  "gelijk!";
+    echo  "<p>gelijk!</p>";
 }
 
 else {
-    echo "niet gelijk!";
+    echo "<p>niet gelijk!</p>";
 }
 
 
 if($test1 != $test2) {
-    echo  "ongelijk!";
+    echo  "<p>ongelijk!</p>";
 }
 
 else {
-    echo  "ongelijk aan!";
+    echo  "<p>ongelijk aan!</p>";
 }
 
 
 
 
 if($test1 === $test2) {
-    echo "iedentiek aan";
+    echo "<p>iedentiek aan</p>";
 }
 
 else {
-echo "niet iedentiek";
+echo "<p>niet iedentiek</p>";
 }
 
 

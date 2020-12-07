@@ -1,5 +1,8 @@
 <?php
 
+
+
+//aantwoorden taak 1 t/m taak 1 comparison operators
 //taak1
 //echo "Hallo en Welkom!";
 //echo '<h1>Darimir</h1>';
