@@ -9,8 +9,8 @@ function  mijnNaamIsGroot(){
   
    
    
-   Echo $gehelenaam; ("mijn naam is");
-   strtoupper($gehelenaam);
+   Echo "mijn naam is  $gehelenaam";
+   strtoupper  ($gehelenaam);
 
 
 
