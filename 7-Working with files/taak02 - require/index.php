@@ -1,5 +1,5 @@
 <?php  
-    require 'include/database.php';
+    require 'include/menu.php';
 ?>
 
 
