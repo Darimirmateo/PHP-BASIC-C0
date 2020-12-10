@@ -33,7 +33,7 @@ $buttons =  [1,2,30,50,375] ;
  * De uitkomst van de berekening moet het aantal gekochte bitcoins opleveren.
  * De functie geeft de uitkomst van die berekening terug.
  * De gebruiker kan voor een vast bedrag bitcoins kopen. 
- */
+ *//klaar
 
 function calculateBitcoinAmount()
 {
